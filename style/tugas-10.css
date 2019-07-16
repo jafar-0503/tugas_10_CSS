@@ -1,0 +1,18 @@
+body{
+  background-image: radial-gradient( circle at right 10px, white, red);
+}
+div{
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  border: 2px solid none;
+
+}
+.satu{
+
+  background-image: repeating-linear-gradient(blue, white);
+}
+.dua{
+  
+  background-image: repeating-linear-gradient(90deg, white, blue, white);
+}
